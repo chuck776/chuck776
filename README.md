@@ -1,5 +1,5 @@
 #  About Me:
-Final year Bsc Computer science at the University of Pretoria. <br>Mostly interested in providing optimal solutions while maintaning proper UI/UX.<br>Currently exploring a range of frontend techstacks to help make applications that make everyday life easier for the average person
+Bsc Computer Science Graduate at the University of Pretoria. <br>Mostly interested in providing optimal solutions while maintaning proper UI/UX.<br>Currently exploring a range of frontend techstacks to help make applications that make everyday life easier for the average person
 
 
 ##  Socials:
